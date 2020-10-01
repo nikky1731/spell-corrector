@@ -1,2 +1,2 @@
 # spell-corrector
-A simple spell corrector python program
+A simple spelling corrector python program
